@@ -16,8 +16,8 @@ This repo contains files for connecting to the database and object cloud storage
 * Current problems: since address keeps jumping, we can't verify the uri
 
 ## Server: ##
-Files in /web/bin
-Must be authed to access
+* Files in /web/bin
+* Must be authed to access
 
 ## TODO ##
 Fix drive connections so files can be transferred
